@@ -1,0 +1,6 @@
+{
+    "app_title": "Title",
+    "language": "Language",
+    "welcome_message": "Welcome",
+    "I_have_this_numbers_of_days": "it's been {{numbers_of_days}} days since my birthday"
+}

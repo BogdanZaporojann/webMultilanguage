@@ -1,0 +1,6 @@
+{
+    "app_title": "عنوان",
+    "language": "اللغة",
+    "welcome_message": "اهلا بكم",
+    "I_have_this_numbers_of_days": "لقد مرت {{numbers_of_days}} أيام منذ عيد ميلادي"
+}
